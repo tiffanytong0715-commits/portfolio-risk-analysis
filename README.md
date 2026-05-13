@@ -6,6 +6,8 @@ A Python-based project simulating how market risk teams measure and monitor port
 
 This project analyzes the risk of an equity portfolio by evaluating return, volatility, and downside risk using Value at Risk (VaR).
 
+This project reflects a simplified version of how financial institutions monitor portfolio risk and manage potential losses in volatile markets.
+
 ---
 
 ## Key Features
@@ -28,6 +30,11 @@ This project analyzes the risk of an equity portfolio by evaluating return, vola
 - Despite equal weighting, asset-level risk contributions were uneven due to differing volatility levels  
 - The portfolio’s 95% VaR (~ -3%) indicates potential daily losses under normal market conditions  
 - Diversification across assets helps reduce overall portfolio risk compared to single-stock exposure  
+
+---
+
+## Project File
+- [View Notebook](./Portfolio_Risk_Analysis.ipynb)
 
 ---
 
